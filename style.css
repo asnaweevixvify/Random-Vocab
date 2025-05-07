@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #3A3A3A;
+}
+h1{
+    font-family: 'Kanit';
+    font-weight: 400;
+    color: white;
+}
+.h1main{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 55px;
+}
+input{
+    width: 80px;
+    height: 100px;
+    font-size: 55px;
+    font-family: 'Kanit';
+    font-weight: 400;
+    text-align: center;
+    border: 0px solid transparent;
+    border-radius: 5px;
+    background-color: white;
+}
+.typecontainer{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 5px;
+}
+button{
+    width: 300px;
+    height: 60px;
+    font-family: 'Kanit';
+    font-weight: 400;
+    color: white;
+    background-color: blueviolet;
+    font-size: 25px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    cursor: pointer;
+}
