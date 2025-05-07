@@ -52,3 +52,16 @@ button{
     margin-top: 50px;
     cursor: pointer;
 }
+@media(max-width:450px){
+    .h1main{
+        font-size: 35px;
+    }
+    input{
+        width: 50px;
+        height: 70px;
+        font-size: 40px;
+    }
+    .typecontainer{
+        gap: 10px;
+    }
+}
